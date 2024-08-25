@@ -17,7 +17,7 @@ status: Front-end Developer
 
 ## recent_stat
 
-<div class="stat" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div class="stat" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img alt="My GitHub Stats"
         src="https://github-readme-stats.vercel.app/api?username=Steven-Zhl&theme=blueberry&show_icons=true&hide_border=true&count_private=true"
         style="object-fit: contain; height: 150px;" />
@@ -33,41 +33,41 @@ status: Front-end Developer
 
 ### I can
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/python.svg" alt="Python" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/flask.svg" alt="Flask" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/javascript.svg" alt="JavaScript" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/vuejs.svg" alt="Vue.js" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/pytorch.svg" alt="PyTorch" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/matlab.png" alt="Matlab" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/qt.svg" alt="PyQt" />
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/python.svg" alt="Python" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/flask.svg" alt="Flask" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/javascript.svg" alt="JavaScript" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/vuejs.svg" alt="Vue.js" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/pytorch.svg" alt="PyTorch" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/matlab.png" alt="Matlab" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/qt.svg" alt="PyQt" />
 </div>
 
 ### I'm learning
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/mysql.svg" alt="MySQL" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/mongodb.svg" alt="MongoDB" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/sqlite.svg" alt="SQLite" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/redis.svg" alt="Redis" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/html5.svg" alt="HTML5" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/css3.svg" alt="CSS3" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/javascript.svg" alt="JavaScript" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/jekyll.svg" alt="Jekyll" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/typescript.svg" alt="TypeScript" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/element-plus.svg"
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/mysql.svg" alt="MySQL" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/mongodb.svg" alt="MongoDB" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/sqlite.svg" alt="SQLite" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/redis.svg" alt="Redis" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/html5.svg" alt="HTML5" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/css3.svg" alt="CSS3" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/javascript.svg" alt="JavaScript" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/jekyll.svg" alt="Jekyll" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/typescript.svg" alt="TypeScript" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/element-plus.svg"
         alt="Element Plus" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/nuxtjs.svg" alt="Nuxt.js" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/streamlit.svg" alt="Streamlit" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/nuxtjs.svg" alt="Nuxt.js" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/streamlit.svg" alt="Streamlit" />
 </div>
 
 ### I'm planning to learn
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/dart.svg" alt="Dart" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/flutter.svg" alt="Flutter" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/rust.svg" alt="Rust" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/go.svg" alt="Golang" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/postgresql.svg" alt="PostgreSQL" />
-    <img style="width: 40px; height: 40px; object-fit: contain;" src="./icons/nodejs.svg" alt="Node.JS" />
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/dart.svg" alt="Dart" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/flutter.svg" alt="Flutter" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/rust.svg" alt="Rust" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/go.svg" alt="Golang" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/postgresql.svg" alt="PostgreSQL" />
+    <img style="margin: 10px; width: 40px; height: 40px; object-fit: contain;" src="./icons/nodejs.svg" alt="Node.JS" />
 </div>
