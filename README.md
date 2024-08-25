@@ -14,7 +14,7 @@ status: Front-end Developer
 ```
 
 <div class="container" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
-    <div style="flex: 1 1 40%; min-width: 400px;">
+    <div style="flex: 1 1 20%; min-width: 400px;">
         <h2>recent_status</h2>
         <img alt="My GitHub Stats"
             src="https://github-readme-stats.vercel.app/api?username=Steven-Zhl&theme=blueberry&show_icons=true&hide_border=true&count_private=true"
@@ -26,7 +26,7 @@ status: Front-end Developer
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Zhl&theme=blueberry&show_icons=true&hide_border=true&layout=compact"
             width="100%" />
     </div>
-    <div style="flex: 1 1 45%; min-width: 400px;">
+    <div style="flex: 1 1 60%; min-width: 400px;">
         <h2>dev_skills</h2>
         <h3>I can use</h3>
         <div style="display: flex; flex-direction: row; gap: 10px;">
