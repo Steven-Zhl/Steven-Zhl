@@ -9,8 +9,8 @@ name: [Steven-Zhl, Steven]
 pronouns: [He, Him]
 born: 2002
 education:
-major: Computer Science(AI)
-degree: Bachelor
+    major: Computer Science(AI)
+    degree: Bachelor
 language: [Chinese (Chi&Chs), English]
 status: Front-end Developer
 ```
